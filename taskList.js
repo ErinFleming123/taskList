@@ -1,3 +1,11 @@
+function List(listName) {
+  this.listName = listName;
+  this.
+
+};
+
+
+
 /*function LinkedList() {
   this.head = null;
   this.tail = null;
